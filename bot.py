@@ -8,7 +8,7 @@ import time
 # Инициализация подключения к Polygon
 POLYGON_RPC_URL = "https://polygon-rpc.com"
 CONTRACT_ADDRESS = "0x1a9b54a3075119f1546c52ca0940551a6ce5d2d0"
-API_KEY = "MT3JP7UCKD231GIX6YPTCHB6UH4ZVBQMNW"
+API_KEY = "////"
 
 # Стандартный ABI для токена ERC20
 ERC20_ABI = [
