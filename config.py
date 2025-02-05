@@ -7,7 +7,7 @@ ALTERNATIVE_RPC_URLS = [
 
 # Contract Configuration
 CONTRACT_ADDRESS = "0x1a9b54a3075119f1546c52ca0940551a6ce5d2d0"
-API_KEY = "MT3JP7UCKD231GIX6YPTCHB6UH4ZVBQMNW"
+API_KEY = "......"
 
 # API Configuration
 API_RATE_LIMIT = 5  # requests per second
